@@ -156,7 +156,7 @@ export const NEWS = [
     date: "2025-03-08",
     tag: "Research",
     image:
-      "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=2000&auto=format&fit=crop",
+      "https://www.fischtankpr.com/wp-content/uploads/2023/10/shutterstock_2232908089-scaled.jpg",
     href: "#",
   },
   {
