@@ -27,7 +27,7 @@ export default function About() {
             Why Computer Science?
           </h2>
         </motion.div>
-        <p className="mt-10">
+        <p className="mt-10 text-black">
           Computer Science is an exciting, challenging, and growing field that
           impacts the world and everyday life in countless ways.
           <br />
